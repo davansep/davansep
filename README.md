@@ -1,4 +1,4 @@
-## Olá, eu sou a Priscila Davanse - Seja bem vindes!
+## Olá, Seja bem vindes!
  <div>
   <a href="https://github.com/davansep">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
