@@ -1,8 +1,8 @@
 ## Olá, Seja bem vindes!
  <div>
   <a href="https://github.com/davansep">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&langs_count=16&theme=jolly"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&langs_count=16&theme=omni"/>
 </div>
 <div style="display: inline_block">
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
