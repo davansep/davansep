@@ -4,7 +4,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
