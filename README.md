@@ -1,8 +1,6 @@
  <div align="center"><h1>Olá, Seja bem vindes!</h1></div>
- 
  #
- 
-<div>
+<div style="display: inline_block" align="center">
   <a href="https://github.com/davansep">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&langs_count=16&theme=midnight-purple"/>
