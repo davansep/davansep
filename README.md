@@ -1,4 +1,4 @@
- <div align="center"><h2>Olá, Seja bem vindes!</h2></div>
+ <div align="center"><h2>Olá, Sejam bem vindes!</h2></div>
  <div style="display: inline_block" align="center"> 
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
