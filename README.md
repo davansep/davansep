@@ -1,4 +1,3 @@
-  <h2 align="center">⭐ Seja bem-vindo ao meu universo tech ⭐</h2>
   <p align="center">
   <h3 align="center">Desenvolvedora Full Stack</h3><br/>
   <p align="center">
@@ -90,5 +89,3 @@ Entrego código limpo, resiliente e escalável; entendo o ciclo completo de uma 
  <a href="https://www.linkedin.com/in/prisciladavanse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:priscila.davanse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
-<h2 align="center"> ⭐ Obrigada por visitar meu perfil ⭐ </h2>
