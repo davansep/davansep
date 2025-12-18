@@ -36,10 +36,13 @@ Como pessoa PCD (autismo + TDAH), transformo meu hiperfoco em:
  <a href="https://www.linkedin.com/in/prisciladavanse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:priscila.davanse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=bear)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&heme=baer)
+<br>
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davansep/davansep/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davansep/davansep/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davansep/davansep/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
