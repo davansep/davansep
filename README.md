@@ -3,7 +3,7 @@
 Sou uma mulher autista e atuo como desenvolvedora de sistemas com experiência em **ambientes de alta escala**, atuando em bancos e seguradoras.  
 Meu foco principal está no **backend**, mas atuo como **Full Stack** quando necessário.
 
-Tenho facilidade em trabalhar com microsserviços, integrações entre sistemas, arquitetura orientada a eventos **mensageria Kafka** e sustentação de aplicações críticas.
+Tenho facilidade em trabalhar com microsserviços, integrações entre sistemas, arquitetura orientada a eventos **(mensageria Kafka)** e sustentação de aplicações críticas.
 
 Como pessoa PCD (Autismo N1 + TDAH), transformo meu hiperfoco em:
 - código organizado  
@@ -26,10 +26,12 @@ Como pessoa PCD (Autismo N1 + TDAH), transformo meu hiperfoco em:
 [![My Skills](https://skillicons.dev/icons?i=aws,bitbucket,git,jenkins,terraform,docker,figma,postman)](https://skillicons.dev)
 
 ---
-<div align="center" dir="auto">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=bear&size_weight=1&count_weight=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&theme=bear&size_weight=1&count_weight=1&langs_count=8)
+<div align="center" dir="auto" style="display: inline_block">
+  <a href="https://github.com/davansep">
+  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=davansep&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davansep&layout=compact&langs_count=16&theme=bear"/>
+   
 <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davansep/davansep/output/github-contribution-grid-snake-dark.svg">
