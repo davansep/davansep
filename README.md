@@ -1,4 +1,3 @@
-
 ## Olá, me chamo Priscila <a href="https://www.linkedin.com/in/prisciladavanse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:priscila.davanse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Sou uma mulher autista e atuo como desenvolvedora de sistemas com experiência em **ambientes de alta escala**, atuando em bancos e seguradoras.  
@@ -38,4 +37,10 @@ Como pessoa PCD (Autismo N1 + TDAH), transformo meu hiperfoco em:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davansep/davansep/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+<h3 align="center">
+~~~~~ ** Até logo ** ~~~~~
+<br>
+<br>
+<img src="pri_desenho_perfil.png" alt="" width="200"/>
+</h3>
 </div>
